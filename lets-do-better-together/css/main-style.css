@@ -44,7 +44,6 @@ h1, h2, h3, h4, p, span {
 
 .header__nav {
     background-color: white;
-
 }
 
 .header__flex-nav {
@@ -71,6 +70,7 @@ h1, h2, h3, h4, p, span {
     margin: auto 0;
     padding: 1%;
     text-align: center;
+    cursor: pointer;
 }
 
 .header__logo img {
@@ -124,11 +124,10 @@ h1, h2, h3, h4, p, span {
     background-blend-mode: multiply;
     background-color: rgba(0, 0, 0, 0.2);
 }
-.section-main-article__h1{
+
+.section-main-article__h1 {
     display: block;
     text-align: center;
     color: white;
     padding: 2%;
 }
-
-
